@@ -1,0 +1,6 @@
+name = "cfhire"
+type = "javascript"
+account_id = "c4e792d4cc51e0d28d279407111a922d"
+workers_dev = true
+route = ""
+zone_id = ""
